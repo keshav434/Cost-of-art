@@ -1,0 +1,3 @@
+Title: hongkong
+Rectangle{Fill:Indigo,Height:35,Outline:Yellow,Thickness:5,Width:20}
+Rectangle{Fill:Indigo,Height:40,Outline:Black,Thickness:5,Width:30}

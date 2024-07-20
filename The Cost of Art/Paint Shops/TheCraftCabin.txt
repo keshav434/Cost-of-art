@@ -1,0 +1,4 @@
+﻿Name:The Craft Cabin
+Paint{Name:Blood Red,Colour:Red,CM^2PerML:6000,PricePerML:25.00}
+Paint{Name:Lincoln Green,Colour:Green,CM^2PerML:4500,PricePerML:28.00}
+Paint{Name:Baby Blue,Colour:Blue,CM^2PerML:3000,PricePerML:24.00}

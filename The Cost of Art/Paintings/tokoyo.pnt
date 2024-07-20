@@ -1,0 +1,5 @@
+Title: tokoyo
+Triangle{Fill:Blue,Side:12,Outline:Red,Thickness:3}
+Square{Fill:Indigo,Height:45,Outline:Orange,Thickness:3.5}}
+Rectangle{Fill:Green,Height:29,Outline:White,Thickness:2.3,Width:45}
+Circle{Fill:Green,Radius:41,Outline:Violet,Thickness:4.9}

@@ -1,0 +1,4 @@
+﻿Title:Seaside Scene
+Rectangle{Fill:Yellow,Height:25,Width:40,Outline:Yellow,Thickness:1}
+Rectangle{Fill:Blue,Height:25,Outline:Blue,Thickness:1,Width:40}
+Circle{Fill:Yellow,Outline:Orange,Thickness:1,Radius:5}

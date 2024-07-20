@@ -1,0 +1,5 @@
+﻿Title:All the shapes
+Rectangle{Fill:Black,Height:20,Width:10,Outline:Black,Thickness:1}
+Circle{Fill:White,Outline:Black,Thickness:1,Radius:8}
+Triangle{Fill:Yellow,Side:15,Outline:Orange,Thickness:0.2}
+Square{Fill:Violet,Height:10,Outline:Green,Thickness:2}

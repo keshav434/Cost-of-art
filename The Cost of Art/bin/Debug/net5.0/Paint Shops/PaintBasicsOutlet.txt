@@ -1,0 +1,10 @@
+﻿Name:Paint Basics Outlet
+Paint{Name:The Abyss,Colour:Black,CM^2PerML:4.0,PencePerML:2.5}
+Paint{Colour:Blue,Name:Sky Blue,CM^2PerML:3.0,PencePerML:1.5}
+Paint{Colour:Green,CM^2PerML:3.5,Name:Grass Green,PencePerML:3.6}
+Paint{PencePerML:1.4,Name:Purplicious,Colour:Indigo,CM^2PerML:2.5}
+Paint{Colour:Orange,Name:Sunset Orange,CM^2PerML:2.5,PencePerML:2.2}
+Paint{Name:Red Apple,CM^2PerML:1.5,Colour:Red,PencePerML:3.5}
+Paint{Name:Purple Haze,CM^2PerML:5.0,PencePerML:1.3,Colour:Violet}
+Paint{Name:Corn Yellow,Colour:Yellow,PencePerML:1.8,CM^2PerML:3.0}
+Paint{Name:Chalk Cliff,Colour:White,CM^2PerML:4.0,PencePerML:1.2}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Cost of Art", "The Cost of Art\The Cost of Art.csproj", "{899B9DEC-07C4-4D1A-B170-6776FD0AEEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899B9DEC-07C4-4D1A-B170-6776FD0AEEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899B9DEC-07C4-4D1A-B170-6776FD0AEEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899B9DEC-07C4-4D1A-B170-6776FD0AEEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899B9DEC-07C4-4D1A-B170-6776FD0AEEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7DC837C-90E4-4FB1-9682-D3AA2B4F879C}
+	EndGlobalSection
+EndGlobal

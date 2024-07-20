@@ -1,0 +1,51 @@
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\AbbiesArtSupplies.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InkIncorporated.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidColour.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidColour.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidCoverage.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidCoverage.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidMissingToken.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidMissingToken.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidName.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidName.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidPaintName.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidPaintName.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidPrice.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidPrice.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\InvalidToken.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\PaintBasics.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\PaintBasicsOutlet.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\PedrosPaintEmporium.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\PennysPigments.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\PoundlandPaints.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\RachelsRainbowPaint.csv
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paint Shops\TheCraftCabin.txt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\AllShapes.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\FullMoon.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\InvalidCircle.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\InvalidRectangle.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\InvalidShapeName.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\InvalidSquare.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\InvalidTitle.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\InvalidTriangle.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\Rectangle.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\SeasideScene.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\Square.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\TheGreatPyramids.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\Paintings\Triangle.pnt
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\The Cost of Art.exe
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\The Cost of Art.deps.json
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\The Cost of Art.runtimeconfig.json
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\The Cost of Art.runtimeconfig.dev.json
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\The Cost of Art.dll
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\ref\The Cost of Art.dll
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\bin\Debug\net5.0\The Cost of Art.pdb
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.AssemblyInfoInputs.cache
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.AssemblyInfo.cs
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.csproj.CoreCompileInputs.cache
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.dll
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\ref\The Cost of Art.dll
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.pdb
+C:\Users\Keshav Premsagar\Source\Repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.genruntimeconfig.cache
+C:\Users\Keshav Premsagar\source\repos\thecostofart-keshav434\The Cost of Art\obj\Debug\net5.0\The Cost of Art.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+﻿Name:Pedro's Paint Emporium
+Paint{PencePerML:7.5,Name:Stone Blue,Colour:Blue,CM^2PerML:3}
+Paint{Name:Blood Red,CM^2PerML:3,Colour:Red,PencePerML:4.5}
+Paint{PencePerML:6,Name:Dayroom Yellow,Colour:Yellow,CM^2PerML:5}
+Paint{Colour:Green,Name:Duck Green,PencePerML:8.5,CM^2PerML:3}
+Paint{Colour:Green,Name:Lichen,PencePerML:7.5,CM^2PerML:6}
+Paint{PencePerML:6,Name:Ultra Marine,Colour:Blue,CM^2PerML:4}
+Paint{Colour:Green,Name:Olive Tree,PencePerML:2.5,CM^2PerML:6}
+Paint{PencePerML:3,Name:Indian Sunrise,Colour:Yellow,CM^2PerML:3.5}

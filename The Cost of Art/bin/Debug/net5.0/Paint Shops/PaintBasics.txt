@@ -1,0 +1,10 @@
+﻿Name:Paint Basics
+Paint{Name:Black Beauty,Colour:Black,CM^2PerML:1.0,PencePerML:1.00}
+Paint{Colour:Blue,Name:Blue Moon,CM^2PerML:1.0,PencePerML:1.00}
+Paint{Colour:Green,CM^2PerML:1.0,Name:Jealousy Green,PencePerML:1.00}
+Paint{PencePerML:1.00,Name:Indigogo,Colour:Indigo,CM^2PerML:1.0}
+Paint{Colour:Orange,Name:Orange Orange,CM^2PerML:1.0,PencePerML:1.00}
+Paint{Name:Rose Red,CM^2PerML:1.0,Colour:Red,PencePerML:1.00}
+Paint{Name:Violet Violet,CM^2PerML:1.0,PencePerML:1.00,Colour:Violet}
+Paint{Name:Sunflower Yellow,Colour:Yellow,PencePerML:1.00,CM^2PerML:1.0}
+Paint{Name:Bright White,Colour:White,CM^2PerML:1.0,PencePerML:1.00}

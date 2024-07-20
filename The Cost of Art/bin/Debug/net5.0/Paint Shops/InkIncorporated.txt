@@ -1,0 +1,4 @@
+﻿Name:Ink Incorporated.
+Paint{Name:Blood Red,Colour:Red,CM^2PerLitre:6,PricePerML:9.5}
+Paint{Name:Lincoln Green,Colour:Green,CM^2PerLitre:4.5,PricePerLitre:7.5}
+Paint{Name:Baby Blue,Colour:Blue,CM^2PerLitre:3.2,PricePerLitre:5.5}

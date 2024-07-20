@@ -1,0 +1,6 @@
+﻿Title:The Great Pyramids
+Rectangle{Fill:Yellow,Height:25,Outline:Black,Thickness:0.5,Width:50}
+Rectangle{Fill:Blue,Outline:Black,Height:10,Width:10,Thickness:0.2}
+Triangle{Fill:Yellow,Side:15,Outline:Orange,Thickness:0.2}
+Triangle{Side:10,Thickness:0.2,Outline:Orange,Fill:Yellow}
+Triangle{Thickness:0.2,Fill:Yellow,Outline:Black,Side:8}
